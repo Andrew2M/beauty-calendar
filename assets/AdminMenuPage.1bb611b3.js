@@ -1,0 +1,1 @@
+import{j as n,a as i,L as a}from"./index.d20a92f6.js";const e=()=>n("ul",{className:"container__inner",children:[i("li",{children:i(a,{to:"/administrare-admin/utilizatori",children:"Utilizatori"})}),i("li",{children:i(a,{to:"/administrare-admin/calendar",children:"Calendar"})})]});export{e as default};
